@@ -6,7 +6,7 @@ O objetivo deste repositório é consolidar conceitos fundamentais de desenvolvi
 
 ## Resumo do Conteúdo
 
-Além dos exercícios e práticas, também desenvolvi meu próprio resumo com base nos vídeos e materiais disponibilizados, organizando tudo em um documento Word: <a href="https://docs.google.com/document/d/1AdOClTkWyqT1IYin8wU6Mc3vgj8SRs5iMA-JzslLS3A/edit?usp=sharing">Acessar</a>.
+Além dos exercícios e práticas, também desenvolvi meu próprio resumo com base nos vídeos e materiais disponibilizados, organizando tudo em um documento Word: <a href="https://docs.google.com/document/d/1AdOClTkWyqT1IYin8wU6Mc3vgj8SRs5iMA-JzslLS3A/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Acessar</a>
 
 ## Conteúdos Estudados
 
