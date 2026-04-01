@@ -1,4 +1,4 @@
-# Estudos de HTML e CSS
+# HTML e CSS para Desenvolvimento Web
 
 Repositório dedicado aos meus estudos de **HTML5 e CSS3**, com base em materiais e aulas do professor **Gustavo Guanabara** e outros conteúdos complementares.
 
