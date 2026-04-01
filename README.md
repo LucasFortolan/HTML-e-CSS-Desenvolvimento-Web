@@ -1,15 +1,12 @@
-# 📘 Estudos de HTML e CSS
+# Estudos de HTML e CSS
 
 Repositório dedicado aos meus estudos de **HTML5 e CSS3**, com base em materiais e aulas do professor **Gustavo Guanabara** e outros conteúdos complementares.
 
 O objetivo deste repositório é consolidar conceitos fundamentais de desenvolvimento web, registrando exemplos práticos, anotações e exercícios aplicados durante o aprendizado.
 
-## 📝 Resumo do Conteúdo
+## Resumo do Conteúdo
 
-Além dos exercícios e práticas, também desenvolvi meu próprio resumo com base nos vídeos e materiais disponibilizados, organizando tudo em um documento Word.
-
-📌 **Acesse aqui:**  
-<a href="https://docs.google.com/document/d/1AdOClTkWyqT1IYin8wU6Mc3vgj8SRs5iMA-JzslLS3A/edit?usp=sharing">Acessar</a>
+Além dos exercícios e práticas, também desenvolvi meu próprio resumo com base nos vídeos e materiais disponibilizados, organizando tudo em um documento Word: <a href="https://docs.google.com/document/d/1AdOClTkWyqT1IYin8wU6Mc3vgj8SRs5iMA-JzslLS3A/edit?usp=sharing">Acessar</a>.
 
 ## Conteúdos Estudados
 
@@ -32,11 +29,11 @@ Além dos exercícios e práticas, também desenvolvi meu próprio resumo com ba
 - Git / GitHub  
 - Visual Studio Code  
 
-## 🎯 Objetivo
+## Objetivo
 
 Desenvolver uma base sólida em front-end para evolução futura em projetos web, aplicações completas e integração com sistemas back-end.
 
-## 📚 Referências
+## Referências
 
 - Curso em Vídeo (Gustavo Guanabara)  
 - Repositório oficial: https://github.com/gustavoguanabara/html-css  
